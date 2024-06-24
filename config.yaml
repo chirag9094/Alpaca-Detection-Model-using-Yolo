@@ -1,0 +1,7 @@
+
+path: "C:\\Users\\Chirag C\\vit\\docs\\alpaca\\data"
+train: "images\\train"
+val: "images\\train"
+
+names:
+  0: "alpaca"
